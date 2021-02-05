@@ -1,6 +1,6 @@
 # Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
-![Portfolio Analysis](Images/portfolio-analysis.png)
+![Portfolio Analysis](https://github.com/ognjenstrbanovic/a_whale_off_the_portfolio_FINTECH/blob/main/portfolio-analysis.png?raw=true)
 
 ## Background
 
@@ -45,7 +45,7 @@ First, read and clean several CSV files for analysis. The CSV files include whal
 
 5. Join `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
 
-    ![returns-dataframe.png](Images/returns-dataframe.png)
+    ![returns-dataframe.png](https://github.com/ognjenstrbanovic/a_whale_off_the_portfolio_FINTECH/blob/main/returns-dataframe.png?raw=true)
 
 ### Conduct Quantitative Analysis
 
